@@ -8,3 +8,6 @@
 基于pytorch框架搭建了一个cnn模型用来文本多分类，在训练集上拟合度80%以上，测试集50%
 
 是在[该作者的代码上](https://github.com/Shawn1993/cnn-text-classification-pytorch)加以修改实现的
+
+* 在pytorch环境下，python3
+* python main.py 修改mode可实现train、evaluate、predict
