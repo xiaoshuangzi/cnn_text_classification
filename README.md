@@ -3,7 +3,7 @@
 ### 该代码实现了一个对景区评价文本预测用户打分的任务
 
 * 数据格式如下：
-![训练数据](https://github.com/xiaoshuangzi/cnn_text_classification/images/train.png)
+![训练数据](https://github.com/xiaoshuangzi/cnn_text_classification/image/train.png)
 
 基于pytorch框架搭建了一个cnn模型用来文本多分类，在训练集上拟合度80%以上，测试集50%
 
